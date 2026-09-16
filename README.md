@@ -8,3 +8,6 @@ Planned...
 - automatic load fuel
 - automatic unload envanter
 - Code optimization
+
+---
+Copyright (c) 2026 Oktay Mercan https://github.com/OKTAYMERCAN/1chunkquarry
